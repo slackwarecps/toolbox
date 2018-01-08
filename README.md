@@ -7,17 +7,17 @@ Para quem estar tentando resolver o problema com a instabilidade da conexão wif
 Link relacionado: https://www.vivaolinux.com.br/topico/Unity/Erro-no-driver-de-rede-do-Ubuntu-1604
 
 
-#Como utilizar 
+# Como utilizar 
   1)baixe o pacote .deb
   2)instale o pacote
   3)Reinicie o computador
 
 
-#Como baixar
+# Como baixar:
   wget -c https://github.com/slackwarecps/toolbox/blob/master/sl-fix-ubuntu16.04-wifi.deb
 
-#Como Instalar 
+# Como Instalar: 
   $ sudo sudo dpkg -i sl-fix-ubuntu16.04-wifi.deb
 
-#Como Reiniciar
+# Como Reiniciar:
   $ sudo reboot
