@@ -1,0 +1,8 @@
+
+Package: sl-fix-ubuntu16.04-wifi
+Priority: optional
+Version: 0.1
+Architecture: amd64
+Maintainer: Fabio Alvaro
+Depends: 
+Description: Este é um pacote corrige o problema do wifi do ubuntu 16.04 ao suspender a placa de rede.
