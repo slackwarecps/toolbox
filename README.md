@@ -2,7 +2,7 @@
 Ferramentas uteis para o pessoal que usa Ubuntu....
 
 Problema:
-Para quem estar tentando resolver o problema com a instabilidade da conexão wifi da versao 16.04  
+Para quem estar tentando resolver o problema com a instabilidade da conexão wifi da versao 16.04 do Ubuntu Gnome. Eu instalei aqui na minha máquina e parou de cair a rede (pelo menos por enquanto). Me pediram para compartilhar a solução caso eu encontrasse então resolvi fazer um pacote debian pra ficar mais fácil para o pessoal instalar no Ubuntu. Caso vejam melhorias ou correções, chega junto aee! #fui
 
 Link relacionado: https://www.vivaolinux.com.br/topico/Unity/Erro-no-driver-de-rede-do-Ubuntu-1604
 
