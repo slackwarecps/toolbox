@@ -14,10 +14,11 @@ Link relacionado: https://www.vivaolinux.com.br/topico/Unity/Erro-no-driver-de-r
 
 
 # Como baixar:
-  wget -c https://github.com/slackwarecps/toolbox/blob/master/sl-fix-ubuntu16.04-wifi.deb
+  
+  wget -c https://github.com/slackwarecps/toolbox/blob/master/sl-fix-ubuntu16.04-wifi_0.1_amd64.deb
 
 # Como Instalar: 
-  $ sudo dpkg -i sl-fix-ubuntu16.04-wifi.deb
+  $ sudo dpkg -i sl-fix-ubuntu16.04-wifi_0.1_amd64.deb
 
 # Como Reiniciar:
   $ sudo reboot
